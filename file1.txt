@@ -1,1 +1,2 @@
 wo shi fen zhi tian jia
+我修改了main方法
